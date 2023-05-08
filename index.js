@@ -2,7 +2,7 @@ const express = require('express');
 const cors = require('cors');
 
 const data = {
-  places: [
+  products: [
     {
       id: 1,
       name: 'Platos para Agua Comida para Perro, Gato, Mascota Eco-friendly Antideslizante Elevada Alimentación de Madera Acero Inoxidable Cuencos Alimentadores 1.5 Lt',
